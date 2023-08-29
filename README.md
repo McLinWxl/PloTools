@@ -25,4 +25,5 @@ for i in range(100):
 drawing.show()
 ```
 
-[](https://img-blog.csdnimg.cn/2fe6fa81b69146d3922ad54773cb58fd.gif)
+![plotool](https://github.com/McLinWxl/Tools/assets/104571247/fedb9015-b4f6-4976-b389-ea1781edbaf3)
+
